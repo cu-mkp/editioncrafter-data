@@ -19,12 +19,12 @@ _For more general information about file naming conventions in computing, please
 - Do not use spaces anywhere in your file's name
 - Do not use special characters such as: `! # $ % & ' @ ^ `` ~ + , . ; = ) ( "`
   - No periods, commas, question marks, etc.
-- The only characters allowable other than alphanumeric characters are: hyphen/minus sign `-`, underscores `\_`, and plus signs `+`
+- The only characters allowable other than alphanumeric characters are: hyphen/minus sign `-`, underscores `_`, and plus signs `+`
 - For spaces between words
   - Use the hyphen/minus sign `-`
   - Example: `painting-out-verdigris`
 - For spaces between elements (e.g. date, description, name, etc.) - _This is also known as an "element delimiter"_
-  - Use the underscore `\_`
+  - Use the underscore `_`
   - Do not use spaces or other characters such as: `! # $ % & ' @ ^ `` ~ + , . ; = ) ( "`
   - Example: `20160906\_painting-out-verdigris` (date\_description)
 - Order your elements from general to specific
