@@ -54,12 +54,6 @@
 
     -   NB: for filenames with spaces, precede each space with a backslash
 
--   Command: q
-
-    -   = quit
-
-    -   If you are stuck in a screen, use the q command to get back to the command line
-
 -   Command: `pwd`
 
     -   = print working directory: tells you where you are (what directory you’re in)
