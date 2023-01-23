@@ -1,6 +1,4 @@
-![](RackMultipart20230123-1-1moldw_html_41dcfd466f763f85.png)
-
-_**(last updated 08/2021)**_
+_(last updated 2022-01-23)_
 
 # Introduction - File Naming Conventions:
 
