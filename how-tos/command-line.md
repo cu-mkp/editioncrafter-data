@@ -71,3 +71,6 @@
 -   DANGER: Command: `rm -f` \[filename\]
 
     -   = remove, force (don’t ask questions or check if you’re sure)
+
+# For more information:
+-   For more info on working on the command line: [https://github.com/dh-notes/dhnotes/tree/master/tutorials/command-line](https://github.com/dh-notes/dhnotes/tree/master/tutorials/command-line)
