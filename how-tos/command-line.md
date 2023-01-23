@@ -6,31 +6,31 @@
 
     -   Contains information, tutorials, and commands
 
--   Command: man \[command, e.g., ls\]
+-   Command: `man \[command, e.g., ls\]`
 
     -   Brings up the manual for that particular command, showing its rules
 
--   Command: git status
+-   Command: `git status`
 
     -   Lets you know the relative status of your local repo v the remote/origin
 
--   Command: git log
+-   Command: `git log`
 
     -   Lets you see what’s been going on in Git recently
 
--   Command: df -h
+-   Command: `df -h`
 
     -   Checks how much free space you have on your computer
 
--   Command: ls
+-   Command: `ls`
 
     -   Gives you a list of the folders/files in your current directory
 
--   Command: ls -la
+-   Command: `ls -la`
 
     -   Gives you a list of ALL (even hidden) files in your current directory
 
--   Command: cd
+-   Command: `cd`
 
     -   = change directory: helps you change directories
 
@@ -42,13 +42,13 @@
 
         -   If this freezes, then there is more than one directory that begins the same way. Type another character or two so it is unique
 
--   Command: cd ..
+-   Command: `cd ..`
 
     -   = go up a level in directories
 
-    -   cd ../.. = go up 2 levels!
+    -   `cd ../..` = go up 2 levels!
 
--   Command: less \[filename of a file in your current directory\]
+-   Command: `less` \[filename of a file in your current directory\]
 
     -   Allows you to see the file’s contents
 
@@ -60,24 +60,22 @@
 
     -   If you are stuck in a screen, use the q command to get back to the command line
 
--   Command: pwd
+-   Command: `pwd`
 
     -   = print working directory: tells you where you are (what directory you’re in)
 
--   Command: mkdir
+-   Command: `mkdir`
 
     -   = make directory: create new directory
 
--   Command: mv \[filename\] \[new filename\]
+-   Command: `mv` \[filename\] \[new filename\]
 
     -   = move (but actually means rename the file)
 
--   Command: touch
+-   Command: `touch`
 
     -   Creates a quick file
 
--   DANGER: Command: rm -fr/
+-   DANGER: Command: `rm -f` \[filename\]
 
-    -   = remove, force (don’t ask questions or check if you’re sure), recursively from this directory
-
-    -   wipes your hard drive — DO NOT DO THIS
+    -   = remove, force (don’t ask questions or check if you’re sure)
