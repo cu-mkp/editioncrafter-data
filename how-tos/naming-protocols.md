@@ -26,7 +26,7 @@ _For more general information about file naming conventions in computing, please
 - For spaces between elements (e.g. date, description, name, etc.) - _This is also known as an "element delimiter"_
   - Use the underscore `_`
   - Do not use spaces or other characters such as: `! # $ % & ' @ ^ `` ~ + , . ; = ) ( "`
-  - Example: `20160906\_painting-out-verdigris` (date\_description)
+  - Example: `20160906_painting-out-verdigris` (date\_description)
 - Order your elements from general to specific
   - This is most important for dates: Year, Month, Day
   - (YYYYMMDD), (YYMMDD), (YYMM), etc
