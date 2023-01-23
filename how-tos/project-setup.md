@@ -6,3 +6,5 @@
 - Set up all users to clone repo locally 
 - Practice using the command line to add/edit the repo
 - Add text files
+- Introduce concept of tagging versions (v0.0.1, etc.)
+- Introduce Zenodo
