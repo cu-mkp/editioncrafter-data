@@ -2,7 +2,7 @@
 
 # Navigating and working in the command line
 
--   For more info on bash: [<u>https://programminghistorian.org/en/lessons/intro-to-bash</u>](https://programminghistorian.org/en/lessons/intro-to-bash)
+-   For more info on bash: [<u>https://programminghistorian.org/en/lessons/intro-to-bash#opening-your-shell</u>](https://programminghistorian.org/en/lessons/intro-to-bash#opening-your-shell)
 
     -   Contains information, tutorials, and commands
 
