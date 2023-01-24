@@ -8,7 +8,7 @@ Many standard services and servers, including those employed in creating our dig
 
 The guidelines below describe general good practice for file naming in computing, but these names are not always the easiest to read or use in everyday personal computing.
 
-_For more general information about file naming conventions in computing, please see Purdue Libraries "_[_Data Management for Undergraduate Researchers_](http://guides.lib.purdue.edu/c.php?g=353013&p=2378293)_" which links to this clear guide: "Folder and File Naming Convention –_ [_10 Rules for Best Practice_](http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice)._"
+_For more general information about file naming conventions in computing, please see Purdue Libraries [Data Management for Undergraduate Researchers](http://guides.lib.purdue.edu/c.php?g=353013&p=2378293) which links to this clear guide: [Folder and File Naming Convention –10 Rules for Best Practice](http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice)._
 
 # Computing Guidelines
 
