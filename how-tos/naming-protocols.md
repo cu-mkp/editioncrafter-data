@@ -1,6 +1,6 @@
 _(last updated 2022-01-23)_
 
-# Introduction - File Naming Conventions:
+# Introduction to File Naming Conventions
 
 Computers don't always know how to handle certain characters. Neither [Microsoft Windows](https://msdn.microsoft.com/en-us/library/windows/desktop/aa365247(v=vs.85).aspx) or [Apple OSX](https://support.apple.com/en-us/HT202808) allow files to be named with special characters like questions marks `?` or slashes `\`. Special characters, spaces, and other elements are frequently reserved and possess meanings beyond the language we are speaking or typing. For example, periods `.` are used by operating systems to separate the descriptive file name from the extension (file type).
 
@@ -8,9 +8,9 @@ Many standard services and servers, including those employed in creating our dig
 
 The guidelines below describe general good practice for file naming in computing, but these names are not always the easiest to read or use in everyday personal computing.
 
-_For more general information about file naming conventions in computing, please see Purdue Libraries "_[_Data Management for Undergraduate Researchers_](http://guides.lib.purdue.edu/c.php?g=353013&p=2378293)_" which links to this clear guide: "Folder and File Naming Convention –_ [_10 Rules for Best Practice_](http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice)_"._
+_For more general information about file naming conventions in computing, please see Purdue Libraries "_[_Data Management for Undergraduate Researchers_](http://guides.lib.purdue.edu/c.php?g=353013&p=2378293)_" which links to this clear guide: "Folder and File Naming Convention –_ [_10 Rules for Best Practice_](http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice)._"
 
-# Computing Guidelines:
+# Computing Guidelines
 
 - Use only alphanumeric characters (letters in the English alphabet + numbers)
 - Use all lowercase letters
