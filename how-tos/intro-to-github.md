@@ -12,11 +12,11 @@ Github is free to use, though there are certain advanced features that are only 
 
 To get started, create a [Github account](https://github.com/) by signing up. You may want to use your education email account for added features, though this is not necessary. See [Getting started with your GitHub account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account) for more details.
 
-For an introduction of some of the main features of Github, we suggest reviewing [Github's Hello World Exercise](https://docs.github.com/en/get-started/quickstart/hello-world).
+For an introduction of some of the main features of Github, we suggest reviewing [Github's Hello World Exercise](https://docs.github.com/en/get-started/quickstart/hello-world). Another useful resource is [W3schools' Intro to Github](https://www.w3schools.com/git/git_intro.asp?remote=github).
 
 ## Repositories
 
-Each project in Gthub is housed in a respository, which contains all the files and directories (kind of like "folders" in your computer) of your project. 
+Each project in Github is housed in a respository, which contains all the files and directories (kind of like "folders" in your computer) of your project. 
 
 ## Project Management Tools
 
