@@ -27,7 +27,7 @@ Because this repository may be used by beginners, a number of helpful how-tos ha
 ## Repository Structure
 
 This repository has two main areas: 
-1. [data/](data/) directory - all text files associated with an edition's source material (i.e., transcriptions and translations)
+1. [texts/](texts/) directory - all files associated with an edition's source material (i.e., transcriptions and translations)
 2. [metadata/](metadata/) directory - all metadata (data about data) associated with an edition
 
 This is based upon the model used for the creation of *Secrets of Craft and Nature*. M&K's repository for BnF Ms. Fr. 640’s data is [cu-mkp/m-k-manuscript-data](https://github.com/cu-mkp/m-k-manuscript-data) and the “read me” file (scroll down below the file and directory listings on the repo's homepage) describes the repo's structure and how M&K has already worked with Github for *Secrets of Craft and Nature*.
