@@ -1,4 +1,25 @@
-# FA21 Digital Sprints - Github &amp; Digital Workflows
+# Setting up Github to work locally & general workflow
+
+## Setting up Github
+The following three steps only need to be conducted once per machine or repository you are working with.
+### 1. Create a local workspace for Github repositories
+We recommend creating a dedicated directory for Github in your home user directory. For Windows, it is usually, for example, `C:\Users\naomi\Github`, and for Macs, for example, `/Users/naomi/Github`.
+
+### 2. Creating a private key to access your Github account
+SSH is a security protocol that enables computers to talk to each other using public key cryptography. Each user is required to have a private and public key pair to securely access your Github account when working from the command line. 
+
+You will need to:
+1. Create a private/public key pair: https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+2. Add it to your Github account: https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+
+### 3. Clone repository from Github (to make a local version)
+
+Once your key has been set up and linked, all you need to do is clone (which is like downloading) a copy of the repository to your local Githun directory you created in step 1 above. 
+
+You will need to copy the SSH address your repository - see [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for a visual guide of where this is on the repo homepage. Make sure to grab the SSH one and not the HTTPS or GitHub CLI addresses. It should look something like `git@github.com:cu-mkp/editioncrafter-data.git`.
+
+In the command line, navigate to your Github directory, then do: `git clone [paste the SSH address here]`.
+For example, `git clone git@github.com:cu-mkp/editioncrafter-data.git`
 
 ## Main workflow: setting up to work in a branch in a github project
 
@@ -16,7 +37,7 @@
      2. `git pull`
 7. Create new branch titled &quot;issue[##]&quot; (no spaces or special characters)
      1. `git checkout -b [name of branch e.g. issue73]`
-8. Make edits to repository files (in text editors such as Atom, oXygen, or in whatever program suits the files you are working with)
+8. Make edits to repository files (in text editors such as Sublime, oXygen, or in whatever program suits the files you are working with)
 9. Add file in local repository for tracking in github repository
      1. `git add .`
      2. `git commit -m '#[issue##]: [commit message]'` (this will ensure that this commit us linked to the issue you are working on)
@@ -38,21 +59,6 @@
 - `cd ..` -- moves you up one directory
 - `less` [name of file] script reader
 - `q` &quot;quit&quot; -- exit out of a programming that is running
-
-## Clone repository from github (to make a local version)
-
-- [https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-- Terry says SSH (better option) if you&#39;re using your regular computer (i.e., the same public key that&#39;s on your computer and associated with your GitHub account); otherwise HTTPS
-     - See [https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
-     - When you get to step 2., after the &quot;touch…&quot; command, do the following:
-          - dyn-209-2-208-139:Github generaleditor$ `touch ~/.ssh/config`
-          - dyn-209-2-208-139:Github generaleditor$ `nano ~/.ssh/config`
-          - _This will open the text editor_
-          - _Paste in the &quot;\* host…&quot;_
-          - _Press &quot;ctrl&quot; + &quot;x&quot;, then &quot;y&quot;, then &quot;return&quot;_
-          - dyn-209-2-208-139:Github generaleditor$
-     - `$ git clone [https://github.com/](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)[_YOUR-USERNAME_](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)[/](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)[_YOUR-REPOSITORY_](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)_`_
-
 
 ## Check what branch you are in and make sure it is correct
 
