@@ -19,10 +19,10 @@ This repository is a template repository for users who plan to use EditionCrafte
 
 Because this repository may be used by beginners, a number of helpful how-tos have been included:
 - [Introduction to Git and Github](how-tos/intro-to-github.md)
+- [Naming Protocols](how-tos/naming-protocols.md)
 - [Github installation and working in the command line]() -- in progress
 - [Github Workflow]() -- in progress
 - [Command Line Intro and Helpful Commands](how-tos/command-line.md)
-- [Naming Protocols](how-tos/naming-protocols.md)
 - [Project Setup Overview](how-tos/project-setup.md) - reference for project developers
 
 ## Repository Structure
