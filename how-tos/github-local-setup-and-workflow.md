@@ -8,7 +8,14 @@ We recommend creating a dedicated directory for Github in your home user directo
 ### 2. Creating a private key to access your Github account
 SSH is a security protocol that enables computers to talk to each other using public key cryptography. Each user is required to have a private and public key pair to securely access your Github account when working from the command line. 
 
-You will need to:
+To check if you already have this:
+1. In your home directory, type: `ls -la`
+2. Look for a directory called `.ssh`
+     a. If you have this directory, you already have a key
+     b. If you do NOT have this directory, you will need to make one.
+
+
+To make a new key, you will need to:
 1. Create a private/public key pair: https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 2. Add it to your Github account: https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
