@@ -3,6 +3,7 @@
 - Add users and create teams
 - Open preliminary issues (including editing the read.me)
 - Edit read.me
+- Enable issues
 - Set up all users to clone repo locally 
 - Practice using the command line to add/edit the repo
 - Add text files
