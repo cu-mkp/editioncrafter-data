@@ -94,6 +94,13 @@
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
+    
+    
+    <xsl:template match="mark">
+        <xsl:element name="metamark">
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
 
     <xsl:template match="ab">
         <p>
@@ -109,7 +116,7 @@
     </xsl:template>
     
     <xsl:template match="ab/@render">
-        <xsl:attribute name="render">
+        <xsl:attribute name="style">
             <xsl:value-of select="."/>
         </xsl:attribute>
     </xsl:template>
@@ -158,7 +165,7 @@
     </xsl:template>
 
     <xsl:template match="comment">
-        <comment rid="{text()}"/>
+        <note n="{@rid}"/>
     </xsl:template>
 
 </xsl:stylesheet>
