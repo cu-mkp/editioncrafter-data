@@ -1,62 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<text>
-    <pb facs="#f010"/>
-    <div>
+<?xml version="1.0" encoding="UTF-8"?><text><pb facs="#f010"/><div>
 
-        <head>
-            <rs ref="#rs-m">Counterfeit coral</rs>
-            <comment rid=""/>
-        </head>
+<head><rs ref="#rs-m">Counterfeit coral</rs><note n="c_003r_02"/></head>
 
-        <p>
-            <mark>+</mark>
-        </p>
+    <p>
+        <metamark>+</metamark>
+    </p>
 
-        <p>One needs to first make the branches of <rs ref="#rs-m">wood</rs> or take a bizarre <rs
-                ref="#rs-m">thorn branch</rs>, then melt a <rs ref="#rs-ms">lb</rs> of the most
-            beautiful <rs ref="#rs-m">clear pitch resin</rs> and put in one <rs ref="#rs-ms"
-                >ounce</rs> of <rs ref="#rs-m">subtly ground vermilion</rs> with <rs ref="#rs-m"><rs
-                    ref="#rs-pa">walnut</rs> oil</rs>, and if you add in a little <rs ref="#rs-m"
-                    ><rs ref="#rs-pl">Venice</rs>
-                <rs ref="#rs-fr">laque platte</rs></rs>, the color will be more vivid, and stir
-            everything in the <rs ref="#rs-m">resin</rs> melted over a <rs ref="#rs-m">charcoal</rs>
-            fire and not of flame, for fear that it catches fire. Next dip in your branches while
-            turning, &amp; if any filaments should remain on it, turn the branch over the heat of
-            the <rs ref="#rs-m">charcoal</rs>.</p>
+<p>One needs to first make the branches of <rs ref="#rs-m">wood</rs> or take a
+bizarre <rs ref="#rs-m">thorn branch</rs>, then melt a <rs ref="#rs-ms">lb</rs> of the most
+beautiful <rs ref="#rs-m">clear pitch resin</rs> and put in one <rs ref="#rs-ms">ounce</rs> of
+<rs ref="#rs-m">subtly ground vermilion</rs> with <rs ref="#rs-m"><rs ref="#rs-pa">walnut</rs> oil</rs>, and if
+you add in a little <rs ref="#rs-m"><rs ref="#rs-pl">Venice</rs> <rs ref="#rs-fr">laque platte</rs></rs>, the
+color will be more vivid, and stir everything in the <rs ref="#rs-m">resin</rs> melted
+over a <rs ref="#rs-m">charcoal</rs> fire and not of flame, for fear that it catches fire. 
+Next dip in your branches while turning, &amp; if any filaments
+should remain on it, turn the branch over the heat of the
+<rs ref="#rs-m">charcoal</rs>.</p>
 
-        <p rend="left-top" render="tall">
-            <rs ref="#rs-df"><rs ref="#rs-m">Colophony</rs></rs> is nothing other than recooked <rs
-                ref="#rs-m">resin</rs>. To do it well, take a <rs ref="#rs-tl"><rs ref="#rs-m"
-                    >leaded</rs> pot</rs> &amp; melt the <rs ref="#rs-m">resin</rs>, &amp; boil it
-            over the <rs ref="#rs-tl">brazier</rs> a good <rs ref="#rs-ms"><rs ref="#rs-tmp"
-                    >hour</rs></rs>, &amp; until it appears not to be thick, but clear &amp; liquid
-            like <rs ref="#rs-m">water</rs>, &amp; easily runs &amp; flows from the tip of a <rs
-                ref="#rs-tl">stick</rs> with which you grind it, &amp; test it. Then pour it through
-            a <rs ref="#rs-tl"><rs ref="#rs-m">coarse canvas</rs></rs> or a <rs ref="#rs-tl"><rs
-                    ref="#rs-m">very light tammy cloth</rs></rs>, such that when pouring it falls
-            into the strongest <rs ref="#rs-m">vinegar</rs> that you can find, for the <rs
-                ref="#rs-m">vinegar</rs> gives it strength &amp; prevents it from being so fragile.
-            Reiterate this two or three times &amp; it will be beautiful &amp; well purified. For
-            counterfeiting your <rs ref="#rs-m">coral</rs>, you can mix a <rs ref="#rs-ms">quarter
-                part</rs> of <rs ref="#rs-m">mastic</rs> into your <rs ref="#rs-m">purified
-                resin</rs> to render it more firm and more beautiful, &amp; if you were to take a
-            single tear of <rs ref="#rs-m">mastic</rs>, it would be all the better, but it would be
-            too long. </p>
+<p rend="left-top" style="tall">
 
-        <p rend="left-top">
-            <rs ref="#rs-m">Sulfur</rs> &amp; <rs ref="#rs-m">vermilion</rs> makes the same
-            effect.</p>
+<rs ref="#rs-df"><rs ref="#rs-m">Colophony</rs></rs> is nothing other than recooked <rs ref="#rs-m">resin</rs>. To do
+it well, take a <rs ref="#rs-tl"><rs ref="#rs-m">leaded</rs> pot</rs> &amp; melt the <rs ref="#rs-m">resin</rs>,
+&amp; boil it over the <rs ref="#rs-tl">brazier</rs> a good <rs ref="#rs-ms"><rs ref="#rs-tmp">hour</rs></rs>,
+&amp; until it appears not to be thick, but clear &amp; liquid like
+<rs ref="#rs-m">water</rs>, &amp; easily runs &amp; flows from the tip of a
+<rs ref="#rs-tl">stick</rs> with which you grind it, &amp; test it. Then pour it
+through a <rs ref="#rs-tl"><rs ref="#rs-m">coarse canvas</rs></rs> or a <rs ref="#rs-tl"><rs ref="#rs-m">very light tammy
+cloth</rs></rs>, such that when pouring it falls into the
+strongest <rs ref="#rs-m">vinegar</rs> that you can find, for the <rs ref="#rs-m">vinegar</rs> gives
+it strength &amp; prevents it from being so fragile. Reiterate this two
+or three times &amp; it will be beautiful &amp; well purified. For
+counterfeiting your <rs ref="#rs-m">coral</rs>, you can mix a <rs ref="#rs-ms">quarter part</rs> of
+<rs ref="#rs-m">mastic</rs> into your <rs ref="#rs-m">purified resin</rs> to render it more firm
+and more beautiful, &amp; if you were to take a single tear of
+<rs ref="#rs-m">mastic</rs>, it would be all the better, but it would be too long.
 
-        <p rend="top"> The <rs ref="#rs-m">coral</rs> made of <rs ref="#rs-m">gules red enamel</rs>
-            endures the <rs ref="#rs-tl">file</rs> and polishing.</p>
+</p>
 
-        <p rend="right-top"> It is made like <rs ref="#rs-m">cement</rs> that is stronger mixed with
-                <rs ref="#rs-m"><rs ref="#rs-tl">pestled</rs>
-                <del>than of</del> glass</rs> rather than with <rs ref="#rs-m">brick</rs>. Thus,
-            here one mixes well <rs ref="#rs-tl">pestled</rs>
-            <rs ref="#rs-m">gules red enamel</rs>, which is red in body, with the <rs ref="#rs-m"
-                >vermilion</rs>. Thus with all colors of <rs ref="#rs-m">enamels</rs>.</p>
+<p rend="left-top">
 
-    </div>
+<rs ref="#rs-m">Sulfur</rs> &amp; <rs ref="#rs-m">vermilion</rs> makes the same effect.</p>
+
+<p rend="top">
+
+The <rs ref="#rs-m">coral</rs> made of <rs ref="#rs-m">gules red enamel</rs> endures the
+<rs ref="#rs-tl">file</rs> and polishing.</p>
+
+<p rend="right-top">
+
+It is made like <rs ref="#rs-m">cement</rs> that is stronger mixed with <rs ref="#rs-m"><rs ref="#rs-tl">pestled</rs>
+<del>than of</del> glass</rs> rather than with <rs ref="#rs-m">brick</rs>. Thus, here one
+mixes well <rs ref="#rs-tl">pestled</rs> <rs ref="#rs-m">gules red enamel</rs>, which
+is red in body, with the <rs ref="#rs-m">vermilion</rs>. Thus with all colors of
+<rs ref="#rs-m">enamels</rs>.</p>
+
+</div>
 
 </text>

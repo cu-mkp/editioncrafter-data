@@ -17,7 +17,7 @@ it dries both <rs ref="#rs-env">in the shade</rs> and <rs ref="#rs-env">in the s
 <rs ref="#rs-tmp">in the summer</rs>. It is commonly sold 15 <rs ref="#rs-cn">sous</rs> a
 <rs ref="#rs-ms">lb</rs>.</p>
 
-<p rend="left-bottom" render="tall">
+<p rend="left-bottom" style="tall">
 
 
 
@@ -35,7 +35,7 @@ of them.</p>
 
 <div>
         
-<p rend="left-middle" render="wide">    
+<p rend="left-middle" style="wide">    
 But it is used to heighten colors which have soaked in and to keep them
 from dust. <rs ref="#rs-m">Mastic varnish</rs> does not resist <rs ref="#rs-env">rain</rs>,
 whereas that of <rs ref="#rs-m">oil</rs> and <rs ref="#rs-m">rosin</rs> does.</p>  

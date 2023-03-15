@@ -2343,10 +2343,7 @@
 			<pb facs="#f010"/>
 			<div>
 
-				<head>
-					<rs ref="#rs-m">Counterfeit coral</rs>
-					<note n="XXX"/>
-				</head>
+				<head><rs ref="#rs-m">Counterfeit coral</rs><note n="c_003r_02"/></head>
 
 				<p>
 					<metamark>+</metamark>
@@ -2450,7 +2447,14 @@
 					rendered greenish the blue color of paintings. This one is made like the other
 					one except that one puts <rs ref="#rs-m">coarse common turpentine</rs></p>
 
+
+
+
 				<pb facs="#f011"/>
+
+
+
+
 
 				<p>instead of <rs ref="#rs-m">fine turpentine</rs>. And you can put into two <rs
 						ref="#rs-ms">lb</rs> of <del><rs ref="#rs-fr">tou</rs></del>
@@ -2471,8 +2475,8 @@
 						ref="#rs-ms">lb</rs> is sold at xii <rs ref="#rs-cn">sous</rs>, &amp; at the
 					bottom of the <rs ref="#rs-tl">vessel</rs> remains the <rs ref="#rs-m"
 						>colophony</rs>, or <rs ref="#rs-m"><rs ref="#rs-la">pix
-						græca</rs></rs>.<note n="XXX"/> In this <rs ref="#rs-tl">vessel</rs>, <rs
-						ref="#rs-m">eau-de-vie</rs> is also made well, and there is no need to
+						græca</rs></rs>.<note n="c_003v_01"/> In this <rs ref="#rs-tl">vessel</rs>,
+						<rs ref="#rs-m">eau-de-vie</rs> is also made well, and there is no need to
 					distill it again. You do not need a <rs ref="#rs-tl">oven</rs> for this <rs
 						ref="#rs-tl"><rs ref="#rs-m">copper</rs> vessel</rs>, but only <rs
 						ref="#rs-m">charcoal</rs> around it if it has a flat bottom, but if it is
