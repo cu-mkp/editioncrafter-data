@@ -25,6 +25,7 @@ start =
     },
     
 ## text element
+
     element text {
       attribute xml:id { xsd:NCName },
       element body {
@@ -77,6 +78,8 @@ pb =
   }
   
 # referring string Element
+*[see TEI](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-rs.html)*
+
 rs =
   element rs {
     attribute ref { text },
@@ -84,6 +87,8 @@ rs =
   }
   
 # note Element
+*[see TEI](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html)*
+
 note =
   element note {
     attribute n { xsd:NCName },
