@@ -23,6 +23,8 @@ start =
         }
       }
     },
+    
+    ## text element
     element text {
       attribute xml:id { xsd:NCName },
       element body {
@@ -37,6 +39,8 @@ start =
         }+
       }
     },
+    
+    # facsimile Element
     element facsimile {
       attribute sameAs { xsd:anyURI },
       attribute xml:id { text },
@@ -52,6 +56,8 @@ start =
       }+
     }
   }
+  
+      # paragraph Element
 p =
   element p {
     attribute rend { xsd:NCName }?,
@@ -63,15 +69,21 @@ p =
      | element del { (text | rs)+ }
      | element metamark { text })+
   }
+  
+        # page break Element
 pb =
   element pb {
     attribute facs { text }
   }
+  
+        # referring string Element
 rs =
   element rs {
     attribute ref { text },
     text
   }
+  
+        # note Element
 note =
   element note {
     attribute n { xsd:NCName },
@@ -81,6 +93,8 @@ note =
          text
        })+
   }
+  
+        # graphic Element
 graphic =
   element graphic {
     attribute mimeType { text }?,
