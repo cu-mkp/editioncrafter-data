@@ -27,7 +27,7 @@ See the M&K example file: [fr640_3r-3v-example.xml](https://github.com/cu-mkp/ed
           - Where `#rs-tl` points to the id `rs-tl` of a term defined in the project-controlled vocabulary in a taxonomy earlier in the document: 
           > `<category n="tool" xml:id="rs-tl"><catDesc>tool, including any instrument, and physical or material object used to perform a process, including body parts and verbs such as "piler" (to pestle) that imply a tool.</catDesc>`
              
-          - NOTE: “rs” is the name of the TEI element “referencing string” (contains a general purpose name or referring string) which might be appropriate for this usage, as would “seg” ((arbitrary segment) which represents any segmentation of text below the ‘chunk’ level)
+          - NOTE: “rs” is the name of the TEI element “referencing string” (contains a general purpose name or referring string) which might be appropriate for this usage, as would “seg” ((arbitrary segment) which represents any segmentation of text below the ‘chunk’ level). See [TEI Guidelines definition for `<p>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html).
           - TEI allows other "block-level" elements, e.g., `<ab>` or "anonymous block", lists, tables, quotations, verse lines, etc. See the [TEI Guidelines definition for `<div>`](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html).
 - `<pb>` element (page beginning) with `facs` attribute
      - Points to id for the folio page used by both the `<facsimile>` element in the TEI file and the IIIF manifest 
