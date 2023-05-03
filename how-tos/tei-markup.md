@@ -1,4 +1,4 @@
-# Overview of TEI file (explained in detail below)
+# Overview of TEI file 
 - `<TEI>` = “root element,” contains entire doc
      - [`<teiHeader>`](#this-file-contains-teiheader-which-contains)
           - `<fileDesc>` = “file description,” bibliographic metadata
