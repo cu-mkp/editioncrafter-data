@@ -7,4 +7,3 @@ Because this repository may be used by beginners, a number of helpful how-tos ha
 - [naming-protocols.md](naming-protocols.md) - Naming Protocols
 - [project-setup.md](project-setup.md) - Project Setup Overview - reference for project developers
 - [tei-markup.md](tei-markup.md) - Overview of TEI file
-- [transcription-schema.rnc](transcription-schema.rnc) - RelaxNG schema generated from the [M&K example file](https://github.com/cu-mkp/editioncrafter-data/blob/main/texts/fr640_3r-3v-example.xml)
