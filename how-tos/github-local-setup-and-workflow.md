@@ -21,7 +21,7 @@ To make a new key, you will need to:
 
 ### 3. Clone repository from Github (to make a local version)
 
-Once your key has been set up and linked, all you need to do is clone (which is like downloading) a copy of the repository to your local Githun directory you created in step 1 above. 
+Once your key has been set up and linked, all you need to do is clone (which is like downloading) a copy of the repository to your local Github directory you created in step 1 above. 
 
 You will need to copy the SSH address your repository - see [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for a visual guide of where this is on the repo homepage. Make sure to grab the SSH one and not the HTTPS or GitHub CLI addresses. It should look something like `git@github.com:cu-mkp/editioncrafter-data.git`.
 
